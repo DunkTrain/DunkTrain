@@ -23,10 +23,6 @@ I'm a Java developer with experience working on several projects and intermediat
 
 ## Contact :iphone:
 <p align="center">
-    <a href="https://github.com/DunkTrain">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/DunkTrain">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:shevchenko.dv.dev@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shevchenko.dv.dev@gmail.com">
     </a>
