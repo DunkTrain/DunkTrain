@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Dmitry Shevchenko</h1>
-I'm a Java developer with experience working on several projects and intermediate assignments. I have recently completed my education at JavaRush University, where I developed skills in Java programming and tackled complex challenges. 
+I'm a Java developer with experience working on several projects and intermediate assignments. I have recently completed my education at JavaRush University, where I developed skills in Java programming and tackled complex challenges.   
+  
 📄 Know about my experiences: **[Dunk's CV](https://docs.google.com/document/d/1Ey7eT_hw_SZKm8M_yyqtfG09RP0t5B07p4ewYcSxyi8/edit?usp=sharing)**
 
 ## Skills 💻 
