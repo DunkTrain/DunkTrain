@@ -26,6 +26,14 @@ I'm a Java developer with experience working on several projects and intermediat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DunkTrain&theme=material-palenight" alt="DunkTrain" />
 </p>
 
+## LeetCode :rocket:
+<p align="center">
+    <a href="https://leetcode.com/WilliamRollins/">
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/WilliamRollins/">
+    </a>
+</p>
+
+
 ## Contact :iphone:
 <p align="center">
     <a href="mailto:shevchenko.dv.dev@gmail.com">
