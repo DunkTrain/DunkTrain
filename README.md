@@ -22,19 +22,3 @@ I am a Java developer with several years of experience in commercial development
     />
   </a>
 </p>
-
-## LeetCode :rocket:
-<p align="center">
-    <a href="https://leetcode.com/WilliamRollins/">
-        <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/WilliamRollins/">
-    </a>
-</p>
-
-
-## Contact :iphone:
-<p align="center">
-    <a href="mailto:shevchenko.dv.dev@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shevchenko.dv.dev@gmail.com">
-    </a>
-</p>
-
