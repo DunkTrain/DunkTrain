@@ -22,9 +22,6 @@ I am a Java developer with several years of experience in commercial development
     />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DunkTrain&theme=material-palenight" alt="DunkTrain" />
-</p>
 
 ## LeetCode :rocket:
 <p align="center">
