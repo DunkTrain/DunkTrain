@@ -4,6 +4,10 @@ Feel free to explore my repositories—there’s always something new cooking! �
   
 📄 Know about my experiences: **[CV:RU](https://docs.google.com/document/d/1zkaku8k1xSKBnmubhJ2CPPwDC66vDki9knj8W9mqnss/edit?tab=t.0)**/**[CV:EU](https://docs.google.com/document/d/1Ey7eT_hw_SZKm8M_yyqtfG09RP0t5B07p4ewYcSxyi8/edit?tab=t.0)**
 
+<table>
+<tr>
+<td style="width: 65%; vertical-align: top;">
+
 ## Skills 💻  
 
 ### 💡 Languages & Tools
@@ -33,6 +37,14 @@ Feel free to explore my repositories—there’s always something new cooking! �
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</td>
+<td style="width: 35%; text-align: center; vertical-align: top;">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="coding cat gif">
+</td>
+</tr>
+</table>
+
+---
 ---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
