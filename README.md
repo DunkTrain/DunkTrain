@@ -63,8 +63,6 @@ Feel free to explore my repositories—there’s always something new cooking! �
   <img src="https://github-readme-stats.vercel.app/api?username=DunkTrain&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight" height="165" />
 </p>
 
----
-
 ## 📬 Get in Touch
 
 <a href="mailto:duosora1997@gmail.com">
