@@ -5,12 +5,6 @@ I enjoy coding for fun, experimenting with new ideas, and building interesting p
 Feel free to explore my repositories—there’s always something new cooking! 🍳🚧
 </p>
 
-<p align="center">
-📄 Know about my experiences:
-<a href="https://docs.google.com/document/d/1zkaku8k1xSKBnmubhJ2CPPwDC66vDki9knj8W9mqnss/edit?tab=t.0"><b>CV:RU</b></a> /
-<a href="https://docs.google.com/document/d/1Ey7eT_hw_SZKm8M_yyqtfG09RP0t5B07p4ewYcSxyi8/edit?tab=t.0"><b>CV:EU</b></a>
-</p>
-
 ## 💻 Skills
 
 **Languages & Markup:**  
